@@ -1,0 +1,5 @@
+Cet ensemble de données contient des informations sur une collection de transactions par carte de crédit effectuées en Inde, 
+offrant un aperçu complet des habitudes de dépenses des Indiens à travers le pays. Du sexe et du type de carte utilisée pour effectuer chaque transaction, 
+à la ville où les dépenses ont été les plus élevées et même au type de dépenses effectuées, 
+cet ensemble de données dresse un tableau global de la manière dont l'argent est dépensé en Inde aujourd'hui.
+
